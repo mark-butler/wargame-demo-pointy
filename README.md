@@ -1,4 +1,4 @@
-# wargame-demo
+# wargame-demo-pointy
 wargame demo of hexagon coordinates
 
 This demo displays the pixel coordinates of the mouse.
