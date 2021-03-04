@@ -9,3 +9,5 @@ Then calcualtes the hexagon name.
 After downlaoding the code, click on index.html to start program.
 
 This is a demo only.  Not a repository for development.
+
+https://www.battleanalysis.com/wargame-demo-pointy/wargame-demo-pointy/index.html
